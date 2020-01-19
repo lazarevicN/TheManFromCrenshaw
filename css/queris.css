@@ -1,0 +1,55 @@
+@media screen and (min-width: 1200px) {
+  .skupi {
+    padding-left: 10px;
+    padding-right: 10px; } }
+@media screen and (max-width: 992px) {
+  .navbar-toggler {
+    border-radius: 5px;
+    background-color: white; }
+
+  .navbar-collapse {
+    z-index: 3;
+    background-color: rgba(0, 0, 255, 0.4);
+    border-radius: 5px;
+    padding-left: 20px; }
+
+  .bRadius {
+    max-width: 100%; } }
+@media screen and (max-width: 768px) {
+  .skupi {
+    padding-left: 20px;
+    padding-right: 20px; }
+
+  #vertikalno {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; } }
+@media screen and (max-width: 480px) {
+  .vertikalno2 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 40px; }
+
+  .naslovi1 {
+    font-size: 30px; }
+
+  .naslovi2 {
+    font-size: 30px; }
+
+  .povecajF {
+    font-size: 18px;
+    text-align: center !important; }
+
+  .povecajF2 {
+    font-size: 18px;
+    text-align: center !important; }
+
+  #slajder1 {
+    background-image: url("../img/lNip2.jpg"); }
+
+  #slajder2 {
+    background-image: url("../img/rNip2.jpg"); } }
+
+/*# sourceMappingURL=queris.css.map */
